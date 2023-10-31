@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "557588441440",
+    "project_id": "oneant-a95ca",
+    "storage_bucket": "oneant-a95ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557588441440:android:7f9ef8ea04a176b5a01605",
+        "android_client_info": {
+          "package_name": "com.oneant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557588441440-i8jrk1sq3ih74gonbmu0o535fiabs93l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oneant",
+            "certificate_hash": "f91010b23c35b4dd0dad06825cfd5cd644b08efe"
+          }
+        },
+        {
+          "client_id": "557588441440-1m2rggesqslvpoel4571r423ca27knsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe-ehkQD3G42g923d4OgdaSEgSUuc4xgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557588441440-1m2rggesqslvpoel4571r423ca27knsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
